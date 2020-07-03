@@ -273,6 +273,8 @@ This is the tech being used by Mary Lou Jepken's company [Openwater](https://www
 * [Cycles in mind (Cohen)](http://www.amazon.com/Cycles-mind-rhythms-control-perception-ebook/dp/B013ZI5AIA)
 * [Principles of Neural Science (Kandel et al)](http://www.amazon.com/Principles-Neural-Science-Eric-Kandel/dp/0838577016)
 * [The Future of the Mind (Kaku)](http://www.amazon.com/The-Future-Mind-Scientific-Understand/dp/038553082X)
+* [Introduction to Neuroanatomy](http://neuroanatomy.ca/)
+
 
 ### Technical Books
 * [Brain-Computer Interfacing: An Introduction (Rao)](http://www.amazon.com/Brain-Computer-Interfacing-Introduction-Rajesh-Rao/dp/0521769418)
